@@ -1,0 +1,26 @@
+{
+  "name": "particle-generator",
+  "version": "1.0.0",
+  "description": "particles for background generator",
+  "main": "index.js",
+  "type": "module",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/edcheyjr/particle-generator.git"
+  },
+  "keywords": [
+    "particle"
+  ],
+  "author": "edchey",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/edcheyjr/particle-generator/issues"
+  },
+  "homepage": "https://github.com/edcheyjr/particle-generator#readme"
+}
